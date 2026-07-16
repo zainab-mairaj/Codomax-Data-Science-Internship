@@ -1,0 +1,1 @@
+print("Hello, Codomax! Day 1 is officially underway.")
