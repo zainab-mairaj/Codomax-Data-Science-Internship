@@ -27,3 +27,11 @@
 - **Practice:** Created `day6_data_filtering.ipynb` using Pandas logic like `df[(condition1) & (condition2)]`, double brackets `[['col1', 'col2']]`, and `.sort_values(by='Fare', ascending=False)`.
 - **Outcome:** Filtered and structured dataset successfully created and analyzed.
 -
+
+
+
+## Day 7: Data Analysis & Business Insights 📊
+- **Tasks:** Calculated key summary statistics including total counts, sum, average, minimum, and maximum values across target columns.
+- **Practice:** Created `day7_data_analysis.ipynb` leveraging Pandas functions like `.sum()`, `.mean()`, `.min()`, `.max()`, `.count()`, and `.describe()`.
+- **Outcome:** Extracted actionable business metrics such as total revenue generated, average ticket price, and age distributions.
+-
