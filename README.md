@@ -35,3 +35,11 @@
 - **Practice:** Created `day7_data_analysis.ipynb` leveraging Pandas functions like `.sum()`, `.mean()`, `.min()`, `.max()`, `.count()`, and `.describe()`.
 - **Outcome:** Extracted actionable business metrics such as total revenue generated, average ticket price, and age distributions.
 -
+
+
+
+## Day 8: Data Visualization with Matplotlib 🎨
+- **Tasks:** Generated bar charts, pie charts, and line charts using Matplotlib to visually present categorical distributions, percentage breakdowns, and numeric trends.
+- **Practice:** Created `day8_data_visualization.ipynb` utilizing `plt.bar()`, `plt.pie()`, `plt.plot()`, and styling properties like titles, labels, colors, and grids.
+- **Outcome:** Successfully created clear, interpretable data visualizations from the Titanic dataset.
+-
