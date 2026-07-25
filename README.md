@@ -43,3 +43,10 @@
 - **Practice:** Created `day8_data_visualization.ipynb` utilizing `plt.bar()`, `plt.pie()`, `plt.plot()`, and styling properties like titles, labels, colors, and grids.
 - **Outcome:** Successfully created clear, interpretable data visualizations from the Titanic dataset.
 -
+
+
+## Day 9: Analytical Dashboard Creation 🖥️
+- **Tasks:** Consolidated statistical insights, categorical distributions, percentage compositions, and trend visualizations into a single multi-panel Jupyter dashboard.
+- **Practice:** Created `day9_dashboard.ipynb` leveraging Matplotlib's `plt.subplots()` grid layout system to organize KPIs alongside 4 distinct chart types (Bar, Pie, Line, and Histogram).
+- **Outcome:** Successfully built an executive-ready mini analytics dashboard.
+-
