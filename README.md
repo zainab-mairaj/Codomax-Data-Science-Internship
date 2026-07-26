@@ -50,3 +50,11 @@
 - **Practice:** Created `day9_dashboard.ipynb` leveraging Matplotlib's `plt.subplots()` grid layout system to organize KPIs alongside 4 distinct chart types (Bar, Pie, Line, and Histogram).
 - **Outcome:** Successfully built an executive-ready mini analytics dashboard.
 -
+
+
+
+## Day 10: Data Exporting 💾
+- **Tasks:** Preprocessed and exported the cleaned dataset into a structured CSV file.
+- **Practice:** Created `day10_export_data.ipynb` utilizing Pandas `.to_csv('cleaned_titanic_data.csv', index=False)` to save cleaned data.
+- **Outcome:** Successfully exported `cleaned_titanic_data.csv` for future analysis and modeling.
+-
