@@ -58,3 +58,10 @@
 - **Practice:** Created `day10_export_data.ipynb` utilizing Pandas `.to_csv('cleaned_titanic_data.csv', index=False)` to save cleaned data.
 - **Outcome:** Successfully exported `cleaned_titanic_data.csv` for future analysis and modeling.
 -
+
+
+## Day 11: Business Insights & Observation Report 💡
+- **Tasks:** Analyzed core data metrics and visual patterns to draft 5 structured business observations.
+- **Practice:** Created `day11_business_insights.ipynb` synthesizing findings on passenger volume, survival rates, target demographics, fare variance, and operational crisis equity.
+- **Outcome:** Generated an executive-ready insight report connecting raw data analysis to real-world strategic decision-making.
+-
