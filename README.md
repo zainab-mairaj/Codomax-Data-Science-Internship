@@ -65,3 +65,10 @@
 - **Practice:** Created `day11_business_insights.ipynb` synthesizing findings on passenger volume, survival rates, target demographics, fare variance, and operational crisis equity.
 - **Outcome:** Generated an executive-ready insight report connecting raw data analysis to real-world strategic decision-making.
 -
+
+
+## Day 12: Notebook Refactoring & Formatting Polish 🎨
+- **Tasks:** Enhanced code readability, structure, inline comments, and chart aesthetics across the analysis pipeline.
+- **Practice:** Created `day12_project_improvement.ipynb` applying PEP 8 standards, descriptive variable naming, structured Markdown section headers, error handling, and polished Matplotlib visualizations.
+- **Outcome:** Delivered a publication-ready, professional Jupyter Notebook for team collaboration and executive review.
+-
